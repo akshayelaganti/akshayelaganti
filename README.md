@@ -1,4 +1,4 @@
-# Hi there, I'm Akshay Elaganti 👋
+# Hi there, I'm Akshay Elaganti 
 
 🎯 **Software Analyst | Testing Engineer | MSc in Advanced Engineering Management**  
 📍 Leeds, United Kingdom  
